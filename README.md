@@ -1,7 +1,7 @@
 
 # api-dompetku
 
-this api project is used in flutter project [repository](https://github.com/azissukmawan/api-dompetku.git)
+this api project is used in flutter project [repository](https://github.com/azissukmawan/dompetku)
 
 
 ## Description
