@@ -65,7 +65,7 @@ Response result
 | Key body | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `email`      | `string` | **Required**. e-mail data that already exists in the database  |
-| `password` | `string` | **Required**. unencrypted password that already exists in the database  |
+| `password` | `anything` | **Required**. unencrypted password that already exists in the database  |
 
 Response result
 ```json
@@ -92,7 +92,7 @@ Response result
 | `id_user` | `int` | **Required**. for the user id in the database  |
 |`type`| `string` | **Required**. a value that has two options, ```Pengeluaran``` or ```Pemasukan``` |
 |`date`| `Date format` | **Required**. date format with type ```yyy-MM-dd``` |
-|`total`| `boolean` | **Required**. with appropriate references ```details``` |
+|`total`| `double` | **Required**. with appropriate references ```details``` |
 |`details`| `Json format key: value` | **Required**. data with json format reference key:value, ```{"name": " ", "price": " "}``` |
 
 Response result
