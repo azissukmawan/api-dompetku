@@ -30,7 +30,7 @@ $db = "dompetku";
 ```
 change variabel ```$host``` , ```$user```, ```$password```, ```$db``` for setup your database
 
-database SQL file you can get in link here https://drive.google.com/file/d/118R_NyjHq4GfTXcTCcdGN7wVopYDGFQ3/view?usp=sharing
+database SQL file you can get in link here https://drive.google.com/file/d/1ZTfewQ3paE6H26HfAmAJmXmwTkCFV58k/view?usp=sharing
 
 - Run server local like a [XAMPP](https://www.apachefriends.org/download.html) or [Laragon](https://laragon.org/download/index.html)
     
